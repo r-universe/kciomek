@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "hasseDiagram",
+    "oncran": true
+  }
+]
