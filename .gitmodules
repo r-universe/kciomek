@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "hasseDiagram"]
-	path = hasseDiagram
-	url = https://github.com/kciomek/hassediagram
-	shallow = true
-	registered = true
